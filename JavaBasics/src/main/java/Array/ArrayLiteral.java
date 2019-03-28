@@ -10,9 +10,9 @@ public class ArrayLiteral {
 		/*Suppose if v want to increase the values in that set v can do it and automatically that newly intialized value
 		will be given memory allocation dynamically*/
 		System.out.println(a[2]);
-		for(int i =0;i<a.length;i++)
+		for(int j =0;j<a.length;j++)
 		{
-			System.out.println(a[i]);
+			System.out.println(a[j]);
 		}
 		
 
